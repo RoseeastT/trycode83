@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://mamibet88login.jorisroovers.com/sitemap.xml
+Sitemap : http://lotus88.labhack.org/sitemap.xml
